@@ -30,7 +30,9 @@ public class C05Integer {
         // long(8 byte, 64 bits)
         long d; // d 롱타입
         d = 9223372036854775807L; // 최대값
+        System.out.println("d = " + d);
         d = -9223372036854775808L; // 최소값
+        System.out.println("d = " + d);
 
 
         // java 코드에서 정수 literal 는 int로 해석
