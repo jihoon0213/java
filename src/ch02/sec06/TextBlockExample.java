@@ -26,7 +26,7 @@ public class TextBlockExample {
                 """;
         System.out.println(str);
 
-        char var3 = '';
+        char var3 = ' ';
 
     }
 }
