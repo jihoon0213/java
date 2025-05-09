@@ -36,6 +36,6 @@ class MyClass05 {
 
     // varargs는 꼭 파라미터 목록 마지막에 작성해야함.
     void greeting(String a, int... b) {
-        
+
     }
 }

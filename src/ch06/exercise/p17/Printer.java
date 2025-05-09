@@ -1,19 +1,19 @@
-package ch06.exercise.p16;
+package ch06.exercise.p17;
 
 public class Printer {
-    void println(int p) {
+    static void println(int p) {
         System.out.println(p);
     }
 
-    void println(double p) {
+    static void println(boolean p) {
         System.out.println(p);
     }
 
-    void println(boolean p) {
+    static void println(double p) {
         System.out.println(p);
     }
 
-    void println(String p) {
+    static void println(String p) {
         System.out.println(p);
     }
 }
