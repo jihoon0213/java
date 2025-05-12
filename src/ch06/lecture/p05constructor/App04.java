@@ -3,14 +3,14 @@ package ch06.lecture.p05constructor;
 public class App04 {
 }
 
-class MtClass42 {
+class MyClass42 {
     String name;
     String address;
     String email;
     int age;
     boolean married;
 
-    public MtClass42(String name, String address, String email, int age, boolean married) {
+    public MyClass42(String name, String address, String email, int age, boolean married) {
         this.name = name;
         this.address = address;
         this.email = email;
